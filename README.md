@@ -1,7 +1,5 @@
 # android #
 
-sTodo task manager application can be found in the SamApp folder.
-
 ## sTodo App ##
 
 ``` 
